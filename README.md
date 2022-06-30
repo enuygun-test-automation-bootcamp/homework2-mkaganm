@@ -22,14 +22,15 @@ hataları ortaya çıkarmaz.
 
 Junit java tabanlı kodlar için kullanılan bir Unit
 Test kütüphanesidir.
-[Calculator metodları]()
 
-[Calculator metodları için unit testleri]()
+[Calculator metodları](https://github.com/enuygun-test-automation-bootcamp/homework2-mkaganm/blob/main/src/main/java/com/demoqa/Calculator.java)
+
+[Calculator metodları için unit testleri](https://github.com/enuygun-test-automation-bootcamp/homework2-mkaganm/blob/main/src/test/java/com/demoqa/CalculatorTest.java)
 
 ## :pushpin: SELENIUM VE JUNIT TEST ÖRNEĞİ
 
 Ödev3
 
-[Oluşturduğum selenium metodları]()
+[Oluşturduğum selenium metodları](https://github.com/enuygun-test-automation-bootcamp/homework2-mkaganm/blob/main/src/main/java/com/demoqa/Automation.java)
 
-[Unit testleri]()
+[Unit testleri](https://github.com/enuygun-test-automation-bootcamp/homework2-mkaganm/blob/main/src/test/java/com/demoqa/AutomationTest.java)
