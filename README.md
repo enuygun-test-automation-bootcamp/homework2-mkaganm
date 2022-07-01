@@ -3,7 +3,7 @@
 - Unit test nedir ?
 - JUNIT nedir ?
 - [demoqa.com/webtables](https://demoqa.com/webtables) 
-sayfasındaki serch için Junit testi yazılacak.
+sayfasındaki search için Junit testi yazılacak.
 
 ## :pushpin: UNIT TEST NEDİR ?
 
