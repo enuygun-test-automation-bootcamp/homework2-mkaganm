@@ -24,9 +24,6 @@ Junit java tabanlı kodlar için kullanılan bir Unit
 
 Test kütüphanesidir.
 
-=======
-Test kütüphanesidir. 
-
 Oluşturduğum örneklere aşağıdaki linklere tıklayarak gidebilirsiniz.
 
 
