@@ -35,6 +35,7 @@ public class Automation {
     public static void setFirefoxDriver(){
         WebDriverManager.firefoxdriver().setup();
         driver = new FirefoxDriver();
+        System.out.println(driver);
     }
 
     // * Search alanı için oluşturulan metod
